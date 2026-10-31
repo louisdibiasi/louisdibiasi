@@ -23,9 +23,9 @@ Tools
 ## `$ uname -a`
 
 <p>
-  <img src="https://img.shields.io/badge/Windows%2011-1f1f1f?style=for-the-badge&logoColor=white" alt="Windows 11" />
-  <img src="https://img.shields.io/badge/CachyOS-1f1f1f?style=for-the-badge&logo=cachyos&logoColor=white" alt="CachyOS" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-1f1f1f?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/Windows%2011-2a2a2a?style=for-the-badge&labelColor=111111&logoColor=white" alt="Windows 11" />
+  <img src="https://img.shields.io/badge/CachyOS-2a2a2a?style=for-the-badge&labelColor=111111&logo=cachyos&logoColor=white" alt="CachyOS" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-2a2a2a?style=for-the-badge&labelColor=111111&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
 </p>
 
 ## `$ stats --live`
@@ -36,9 +36,12 @@ Tools
 
 ## `$ wallet --list`
 
-<img src="https://img.shields.io/badge/USDC-Base-444444?style=flat-square" alt="Base USDC" /> *0x7B5eB76478C7e5401330F12c9DE397199eb67d26*
+| Network | Address |
+| --- | --- |
+| ![USDC on Base](https://img.shields.io/badge/USDC-Base-2a2a2a?style=flat-square&labelColor=111111) | *0x7B5eB76478C7e5401330F12c9DE397199eb67d26* |
+| ![BTC](https://img.shields.io/badge/BTC-wallet-2a2a2a?style=flat-square&labelColor=111111&logo=bitcoin&logoColor=white) | *3GRxv2rPpRj4CBF3weLtwr677rgZXsrUqe* |
 
-<img src="https://img.shields.io/badge/BTC-wallet-444444?style=flat-square&logo=bitcoin&logoColor=white" alt="BTC" /> *3GRxv2rPpRj4CBF3weLtwr677rgZXsrUqe*
+<br />
 
 <div align="center">
 
